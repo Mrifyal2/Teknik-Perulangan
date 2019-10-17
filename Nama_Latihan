@@ -9,7 +9,7 @@ int main () {
    cin >>baris;
    
    for(x=baris; x>=0; x--) {
-    for(y=x; x>=0; y--) {
+    for(y=x; y>=0; y--) {
       cout << " ";
    }
    
@@ -22,6 +22,6 @@ int main () {
    }
    cout <<endl;
  }
- getch();
- return0;
+ _getche();
+ return 0;
 }
