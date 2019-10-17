@@ -9,7 +9,7 @@ int main() {
           cout <<"- karakter 'x' untuk keluar dari looping"<<endl;
           cout <<"- karakter lainnya untuk looping"<<endl;
           cout <<"\nMasukkan karakter : ";
-          cint >>pilih;
+          cin >>pilih;
           cout <<endl;
     }
           cout <<endl;
